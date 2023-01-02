@@ -1,0 +1,838 @@
+title: Vanilla Unversed HD
+description: Restores the original unversed colors in HD.
+assets:
+- name: effect/event/kg/d_kg_154.fep
+  method: copy
+  platform: pc
+  source: 
+  - name: effect/d_kg_154.fep
+- name: remastered/effect/event/kg/d_kg_154.fep/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-0.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-1.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-2.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-2.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-3.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-3.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-4.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-4.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-5.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-5.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-6.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-6.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-7.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-7.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-8.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-8.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-9.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-9.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-10.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-10.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-11.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-11.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-12.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-12.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-13.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-13.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-14.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-14.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-15.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-15.dds
+    type: internal
+- name: remastered/effect/event/kg/d_kg_154.fep/-16.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/effect/event/kg/d_kg_154.fep/-16.dds
+    type: internal
+
+- name: remastered/arc/boss/b01cd00d.arc/JP_b01cd00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b01cd/00/b01cd00.pmo/-0.dds
+  - name: remastered/arc/menu/b01cdPV.arc/JP_b01cdPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01cd/-0.dds
+- name: remastered/arc/boss/b01cd00d.arc/JP_b01cd00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b01cd/00/b01cd00.pmo/-1.dds
+  - name: remastered/arc/menu/b01cdPV.arc/JP_b01cdPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01cd/-1.dds
+- name: remastered/arc/boss/b01cd00d.arc/JP_b01cd00d_arc2.dds
+  multi: 
+  - name: remastered/arc/menu/b01cdPV.arc/JP_b01cdPV_arc2.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01cd/-2.dds
+
+- name: remastered/arc/boss/b01ls00d.arc/JP_b01ls00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b01ls/00/b01ls00.pmo/-0.dds
+  - name: remastered/arc/menu/b01lsPV.arc/JP_b01lsPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01ls/-0.dds
+- name: remastered/arc/boss/b01ls00d.arc/JP_b01ls00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b01ls/00/b01ls00.pmo/-1.dds
+  - name: remastered/arc/menu/b01lsPV.arc/JP_b01lsPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01ls/-1.dds
+- name: remastered/arc/boss/b01ls00d.arc/JP_b01ls00d_arc2.dds
+  multi: 
+  - name: remastered/arc/menu/b01lsPV.arc/JP_b01lsPV_arc2.dds
+  - name: remastered/chara/boss/b01ls/00/b01ls00.pmo/-2.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01ls/-2.dds
+
+- name: remastered/arc/menu/b01rgPV.arc/JP_b01rgPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b03rg/-0.dds
+- name: remastered/arc/boss/b01rg00d.arc/JP_b01rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b01rg/00/b01rg00.pmo/-0.dds
+  - name: remastered/arc/menu/b01rg01PV.arc/JP_b01rg01PV_arc0.dds
+  - name: remastered/arc/menu/b01rgPV.arc/JP_b01rgPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01rg/-0.dds
+- name: remastered/arc/menu/b01rgPV.arc/JP_b01rgPV_arc2.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b02rg/-0.dds
+- name: remastered/arc/menu/b01rgPV.arc/JP_b01rgPV_arc3.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b02rg/-0.dds
+
+- name: remastered/arc/boss/b01sw00d.arc/JP_b01sw00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b01sw/00/b01sw00.pmo/-0.dds
+  - name: remastered/arc/menu/b01swPV.arc/JP_b01swPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01sw/-0.dds
+- name: remastered/arc/boss/b01sw00d.arc/JP_b01sw00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b01sw/00/b01sw00.pmo/-1.dds
+  - name: remastered/arc/menu/b01swPV.arc/JP_b01swPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01sw/-1.dds
+
+- name: remastered/arc/boss/b01vs00d.arc/JP_b01vs00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b01vs/00/b01vs00.pmo/-0.dds
+  - name: remastered/arc/menu/b01vsPV.arc/JP_b01vsPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01vs/-0.dds
+- name: remastered/arc/boss/b01vs00d.arc/JP_b01vs00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b01vs/00/b01vs00.pmo/-1.dds
+  - name: remastered/arc/menu/b01vsPV.arc/JP_b01vsPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b01vs/-1.dds
+
+- name: remastered/arc/boss/b02cd00d.arc/JP_b02cd00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b02cd/00/b02cd00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b02cd/-0.dds
+
+- name: remastered/arc/boss/b02rg00d.arc/JP_b02rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b02rg/00/b02rg00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b02rg/-0.dds
+
+- name: remastered/arc/boss/b02sw00d.arc/JP_b02sw00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b02sw/00/b02sw00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b02sw/-0.dds
+
+- name: remastered/arc/boss/b03cd00d.arc/JP_b03cd00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b03cd/00/b03cd00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b03cd/-0.dds
+
+- name: remastered/arc/boss/b03rg00d.arc/JP_b03rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b03rg/00/b03rg00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b03rg/-0.dds
+
+- name: remastered/arc/boss/b03sw00d.arc/JP_b03sw00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b03sw/00/b03sw00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b03sw/-0.dds
+
+- name: remastered/arc/boss/b04cd00d.arc/JP_b04cd00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b04cd/00/b04cd00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b04cd/-0.dds
+
+- name: remastered/arc/boss/b04rg00d.arc/JP_b04rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b04rg/00/b04rg00.pmo/-0.dds
+  - name: remastered/arc/menu/b04rgPV.arc/JP_b04rgPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b04rg/-0.dds
+
+- name: remastered/arc/boss/b05rg00d.arc/JP_b05rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b05rg/00/b05rg00.pmo/-0.dds
+  - name: remastered/arc/menu/b05rgPV.arc/JP_b05rgPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b05rg/-0.dds
+
+- name: remastered/arc/boss/b06rg00d.arc/JP_b06rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b06rg/00/b06rg00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b06rg/-0.dds
+
+- name: remastered/arc/boss/b07rg00d.arc/JP_b07rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b07rg/00/b07rg00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b07rg/-0.dds
+
+- name: remastered/arc/boss/b08rg00d.arc/JP_b08rg00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b08rg/00/b08rg00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b08rg/-0.dds
+
+- name: remastered/arc/boss/b10cd00d.arc/JP_b10cd00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b10cd/00/b10cd00.pmo/-0.dds
+  - name: remastered/arc/menu/b10cdPV.arc/JP_b10cdPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b10cd/-0.dds
+- name: remastered/arc/boss/b10cd00d.arc/JP_b10cd00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b10cd/00/b10cd00.pmo/-1.dds
+  - name: remastered/arc/menu/b10cdPV.arc/JP_b10cdPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b10cd/-1.dds
+
+- name: remastered/arc/boss/b10sb00d.arc/JP_b10sb00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b10sb/00/b10sb00.pmo/-0.dds
+  - name: remastered/arc/menu/b10sbPV.arc/JP_b10sbPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b10sb/-0.dds
+- name: remastered/arc/boss/b10sb00d.arc/JP_b10sb00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b10sb/00/b10sb00.pmo/-1.dds
+  - name: remastered/arc/menu/b10sbPV.arc/JP_b10sbPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b10sb/-1.dds
+
+- name: remastered/arc/boss/b10vs00d.arc/JP_b10vs00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b10vs/00/b10vs00.pmo/-0.dds
+  - name: remastered/arc/menu/b10vsPV.arc/JP_b10vsPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b10vs/-0.dds
+- name: remastered/arc/boss/b10vs00d.arc/JP_b10vs00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b10vs/00/b10vs00.pmo/-1.dds
+  - name: remastered/arc/menu/b10vsPV.arc/JP_b10vsPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b10vs/-1.dds
+
+- name: remastered/arc/boss/b11sb00d.arc/JP_b11sb00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b11sb/00/b11sb00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b11sb/-0.dds
+
+- name: remastered/arc/boss/b11vs00d.arc/JP_b11vs00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b11vs/00/b11vs00.pmo/-0.dds
+  - name: remastered/arc/menu/b11vsPV.arc/JP_b11vsPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b11vs/-0.dds
+- name: remastered/arc/boss/b11vs00d.arc/JP_b11vs00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b11vs/00/b11vs00.pmo/-1.dds
+  - name: remastered/arc/menu/b11vsPV.arc/JP_b11vsPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b11vs/-1.dds
+
+- name: remastered/arc/boss/b12sb00d.arc/JP_b12sb00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b12sb/00/b12sb00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b12sb/-0.dds
+
+- name: remastered/arc/boss/b12vs00d.arc/JP_b12vs00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b12vs/00/b12vs00.pmo/-0.dds
+  - name: remastered/arc/menu/b12vsPV.arc/JP_b12vsPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b12vs/-0.dds
+- name: remastered/arc/boss/b12vs00d.arc/JP_b12vs00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b12vs/00/b12vs00.pmo/-1.dds
+  - name: remastered/arc/menu/b12vsPV.arc/JP_b12vsPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b12vs/-1.dds
+
+- name: remastered/arc/boss/b13vs00d.arc/JP_b13vs00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b13vs/00/b13vs00.pmo/-0.dds
+  - name: remastered/arc/menu/b13vsPV.arc/JP_b13vsPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b13vs/-0.dds
+- name: remastered/arc/boss/b13vs00d.arc/JP_b13vs00d_arc1.dds
+  multi: 
+  - name: remastered/chara/boss/b13vs/00/b13vs00.pmo/-1.dds
+  - name: remastered/arc/menu/b13vsPV.arc/JP_b13vsPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b13vs/-1.dds
+
+- name: remastered/arc/boss/b14vs00d.arc/JP_b14vs00d_arc0.dds
+  multi: 
+  - name: remastered/chara/boss/b14vs/00/b14vs00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/boss/b14vs/-0.dds
+
+- name: remastered/arc/enemy/m01ex00d.arc/JP_m01ex00d_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m01ex/-0.dds
+- name: remastered/arc/enemy/m01ex00d.arc/JP_m01ex00d_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m01ex/00/m01ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m01exPV.arc/JP_m01exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m01ex/-1.dds
+
+- name: remastered/arc/enemy/m02ex00d.arc/JP_m02ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m02ex/00/m02ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m02exPV.arc/JP_m02exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m02ex/-0.dds
+
+- name: remastered/arc/enemy/m03ex00d.arc/JP_m03ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m03ex/00/m03ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m03exPV.arc/JP_m03exPV_arc0.dds
+  - name: remastered/arc/enemy/m30ex00d.arc/JP_m30ex00d_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m03ex/-0.dds
+
+- name: remastered/arc/enemy/m04ex00.arc/JP_m04ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m04ex/00/m04ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m04exPV.arc/JP_m04exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m04ex/-0.dds
+
+- name: remastered/arc/enemy/m05ex00d.arc/JP_m05ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m05ex/00/m05ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m05exPV.arc/JP_m05exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m05ex/-0.dds
+
+- name: remastered/arc/enemy/m06ex00.arc/JP_m06ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m06ex/00/m06ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m06exPV.arc/JP_m06exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m06ex/-0.dds
+
+- name: remastered/arc/enemy/m07ex00d.arc/JP_m07ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m07ex/00/m07ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m07exPV.arc/JP_m07exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m07ex/-0.dds
+
+- name: remastered/arc/enemy/m08ex00.arc/JP_m08ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m08ex/00/m08ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m08exPV.arc/JP_m08exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m08ex/-0.dds
+
+- name: remastered/arc/enemy/m09ex00d.arc/JP_m09ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m09ex/00/m09ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m09exPV.arc/JP_m09exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m09ex/-0.dds
+
+- name: remastered/arc/enemy/m10ex00.arc/JP_m10ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m10ex/00/m10ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m10exPV.arc/JP_m10exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m10ex/-0.dds
+
+- name: remastered/arc/enemy/m11ex00.arc/JP_m11ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m11ex/00/m11ex00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m11ex/-0.dds
+
+- name: remastered/arc/enemy/m12ex00.arc/JP_m12ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m12ex/00/m12ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m12exPV.arc/JP_m12exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m12ex/-0.dds
+
+- name: remastered/arc/enemy/m13ex00.arc/JP_m13ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m13ex/00/m13ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m13exPV.arc/JP_m13exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m13ex/-0.dds
+
+- name: remastered/arc/enemy/m14ex00d.arc/JP_m14ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m14ex/00/m14ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m14ex01PV.arc/JP_m14exPV_arc0.dds
+  - name: remastered/arc/menu/m14exPV.arc/JP_m14exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m14ex/-0.dds
+
+- name: remastered/arc/enemy/m15ex00.arc/JP_m15ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m15ex/00/m15ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m15ex01PV.arc/JP_m15ex01PV_arc0.dds
+  - name: remastered/arc/menu/m15ex02PV.arc/JP_m15ex02PV_arc0.dds
+  - name: remastered/arc/menu/m15exPV.arc/JP_m15exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m15ex/-0.dds
+- name: remastered/arc/enemy/m15ex00.arc/JP_m15ex00_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m15ex/00/m15ex00.pmo/-1.dds
+  - name: remastered/arc/menu/m15ex01PV.arc/JP_m15ex01PV_arc1.dds
+  - name: remastered/arc/menu/m15ex02PV.arc/JP_m15ex02PV_arc1.dds
+  - name: remastered/arc/menu/m15exPV.arc/JP_m15exPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m15ex/-1.dds
+- name: remastered/arc/enemy/m15ex00.arc/JP_m15ex00_arc2.dds
+  multi: 
+  - name: remastered/chara/enemy/m15ex/00/m15ex00.pmo/-2.dds
+  - name: remastered/arc/menu/m15ex01PV.arc/JP_m15ex01PV_arc2.dds
+  - name: remastered/arc/menu/m15ex02PV.arc/JP_m15ex02PV_arc2.dds
+  - name: remastered/arc/menu/m15exPV.arc/JP_m15exPV_arc2.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m15ex/-2.dds
+
+- name: remastered/arc/enemy/m16ex00.arc/JP_m16ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m16ex/00/m16ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m16exPV.arc/JP_m16exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m16ex/-0.dds
+
+- name: remastered/arc/enemy/m17ex00.arc/JP_m17ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m17ex/00/m17ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m17exPV.arc/JP_m17exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m17ex/-0.dds
+
+- name: remastered/arc/enemy/m18ex00.arc/JP_m18ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m18ex/00/m18ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m18exPV.arc/JP_m18exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m18ex/-0.dds
+
+- name: remastered/arc/enemy/m19ex00.arc/JP_m19ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m19ex/00/m19ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m19exPV.arc/JP_m19exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m19ex/-0.dds
+
+- name: remastered/arc/enemy/m20ex00d.arc/JP_m20ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m20ex/00/m20ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m20exPV.arc/JP_m20exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m20ex/-0.dds
+
+- name: remastered/arc/enemy/m21ex00.arc/JP_m21ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m21ex/00/m21ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m21exPV.arc/JP_m21exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m21ex/-0.dds
+- name: remastered/arc/enemy/m21ex00.arc/JP_m21ex00_arc3.dds
+  multi: 
+  - name: remastered/chara/enemy/m21ex/00/m21ex00.pmo/-3.dds
+  - name: remastered/arc/menu/m21exPV.arc/JP_m21exPV_arc3.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m21ex/-3.dds
+- name: remastered/arc/enemy/m21ex00.arc/JP_m21ex00_arc4.dds
+  multi: 
+  - name: remastered/chara/enemy/m21ex/00/m21ex00.pmo/-4.dds
+  - name: remastered/arc/menu/m21exPV.arc/JP_m21exPV_arc4.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m21ex/-4.dds
+
+- name: remastered/arc/enemy/m22ex00d.arc/JP_m22ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m22ex/00/m22ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m22exPV.arc/JP_m22exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m22ex/-0.dds
+
+- name: remastered/arc/enemy/m23ex00.arc/JP_m23ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m23ex/00/m23ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m23exPV.arc/JP_m23exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m23ex/-0.dds
+
+- name: remastered/arc/enemy/m24ex00.arc/JP_m24ex00_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m24ex/00/m24ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m24ex00PV.arc/JP_m24ex00PV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m24ex/-0.dds
+
+- name: remastered/arc/enemy/m24ex01.arc/JP_m24ex01_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m24ex/01/m24ex01.pmo/-0.dds
+  - name: remastered/arc/menu/m24ex01PV.arc/JP_m24ex01PV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m24ex/-1.dds
+
+- name: remastered/arc/enemy/m24ex02.arc/JP_m24ex02_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m24ex/02/m24ex02.pmo/-0.dds
+  - name: remastered/arc/menu/m24ex02PV.arc/JP_m24ex02PV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m24ex/-2.dds
+
+- name: remastered/arc/enemy/m25ex00d.arc/JP_m25ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m25ex/00/m25ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m25exPV.arc/JP_m25exPV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m25ex/-0.dds
+- name: remastered/arc/enemy/m25ex00d.arc/JP_m25ex00d_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m25ex/00/m25ex00.pmo/-1.dds
+  - name: remastered/arc/menu/m25exPV.arc/JP_m25exPV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m25ex/-1.dds
+
+- name: remastered/arc/enemy/m26ex00d.arc/JP_m26ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m26ex/00/m26ex00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m26ex/-0.dds
+- name: remastered/arc/enemy/m26ex00d.arc/JP_m26ex00d_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m26ex/00/m26ex00.pmo/-1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m26ex/-1.dds
+
+- name: remastered/arc/enemy/m27ex00d.arc/JP_m27ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m27ex/00/m27ex00.pmo/-0.dds
+  - name: remastered/arc/enemy/m28ex00d.arc/JP_m28ex00d_arc0.dds
+  - name: remastered/chara/enemy/m28ex/00/m28ex00.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m27ex/-0.dds
+
+- name: remastered/arc/enemy/m32ex00.arc/JP_m32ex00d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/00/m32ex00.pmo/-0.dds
+  - name: remastered/arc/menu/m32ex00PV.arc/JP_m32ex00PV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex00d_arc0.dds
+- name: remastered/arc/enemy/m32ex00.arc/JP_m32ex00d_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/00/m32ex00.pmo/-1.dds
+  - name: remastered/arc/menu/m32ex00PV.arc/JP_m32ex00PV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex00d_arc1.dds
+
+- name: remastered/arc/enemy/m32ex01.arc/JP_m32ex01d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/01/m32ex01.pmo/-0.dds
+  - name: remastered/arc/menu/m32ex01PV.arc/JP_m32ex01PV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex01d_arc0.dds
+- name: remastered/arc/enemy/m32ex01.arc/JP_m32ex01d_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/01/m32ex01.pmo/-1.dds
+  - name: remastered/arc/menu/m32ex01PV.arc/JP_m32ex01PV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex01d_arc1.dds
+
+- name: remastered/arc/enemy/m32ex02.arc/JP_m32ex02d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/02/m32ex02.pmo/-0.dds
+  - name: remastered/arc/menu/m32ex02PV.arc/JP_m32ex02PV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex02d_arc0.dds
+- name: remastered/arc/enemy/m32ex02.arc/JP_m32ex02d_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/02/m32ex02.pmo/-1.dds
+  - name: remastered/arc/menu/m32ex02PV.arc/JP_m32ex02PV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex02d_arc1.dds
+
+- name: remastered/arc/enemy/m32ex03.arc/JP_m32ex03d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/03/m32ex03.pmo/-0.dds
+  - name: remastered/arc/menu/m32ex03PV.arc/JP_m32ex03PV_arc0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex03d_arc0.dds
+- name: remastered/arc/enemy/m32ex03.arc/JP_m32ex03d_arc1.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/03/m32ex03.pmo/-1.dds
+  - name: remastered/arc/menu/m32ex03PV.arc/JP_m32ex03PV_arc1.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex03d_arc1.dds
+
+- name: remastered/arc/enemy/m32ex04.arc/JP_m32ex04d_arc0.dds
+  multi: 
+  - name: remastered/chara/enemy/m32ex/04/m32ex04.pmo/-0.dds
+  platform: pc
+  method: copy
+  source: 
+  - name: remastered/enemy/m32ex/JP_m32ex00d_arc0.dds
